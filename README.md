@@ -25,4 +25,4 @@ The feature selection algorithm for each of the above methods can be found in th
 
 *  GSA_selection_UR: GSA_UR Algorithm
 
-More comments can be found in the codes.
+To run the reproduce results in the paper, simply run MRwMR_VS_MRwMR_BUR.py. The dataset is expected to be stored in the CSV format. 
