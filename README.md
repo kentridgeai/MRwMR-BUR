@@ -7,22 +7,22 @@ The feature selection algorithm for each of the above methods can be found in th
 
 *  MIM_selection: MIM Algorithm
 
-*MIM_selection_UR: MIM_BUR Algorithm
+*  MIM_selection_UR: MIM_BUR Algorithm
 
-*JMI_selection: JMI Algorithm
+*  JMI_selection: JMI Algorithm
 
-*JMI_selection_UR: JMI_BUR Algorithm
+*  JMI_selection_UR: JMI_BUR Algorithm
 
-*mRMR_selection: mRMR Algorithm
+*  mRMR_selection: mRMR Algorithm
 
-*mRMR_selection_UR: mRMR_BUR Algorithm
+*  mRMR_selection_UR: mRMR_BUR Algorithm
 
-*JMIM_selection: JMIM Algorithm
+*  JMIM_selection: JMIM Algorithm
 
-*JMIM_selection_UR: JMIM_BUR Algorithm
+*  JMIM_selection_UR: JMIM_BUR Algorithm
 
-*GSA_selection: GSA Algorithm
+*  GSA_selection: GSA Algorithm
 
-*GSA_selection_UR: GSA_UR Algorithm
+*  GSA_selection_UR: GSA_UR Algorithm
 
 More comments can be found in the codes.
