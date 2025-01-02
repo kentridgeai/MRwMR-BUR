@@ -5,7 +5,7 @@ In this code, we study 5 representative feature selection algorithms via the cri
 
 The feature selection algorithm for each of the above methods can be found in the code in the following functions, 
 
-*MIM_selection: MIM Algorithm
+*  MIM_selection: MIM Algorithm
 
 *MIM_selection_UR: MIM_BUR Algorithm
 
